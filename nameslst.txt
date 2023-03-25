@@ -1,0 +1,7 @@
+import acacia_boat from './images/acacia_boat.png'
+import acacia_chest_boat from './images/acacia_chest_boat.png'
+import acacia_door from './images/acacia_door.png'
+import acacia_sign from './images/acacia_sign.png'
+
+
+const images = ['acacia_boat.png', 'acacia_chest_boat.png', 'acacia_door.png', 'acacia_sign.png']
